@@ -1,5 +1,5 @@
 # Hi, I'm Omer Lahav.
-> ### Currently work as a full-stack web developer at [Geektime](https://www.geektime.co.il/), geek and a bad bios writer.
+> ### Full-stack web developer at [Geektime](https://www.geektime.co.il/), geek and a bad bios writer.
 
 <!--
 **OmerLahav/OmerLahav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
