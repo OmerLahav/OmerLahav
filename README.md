@@ -1,6 +1,6 @@
 # Hi, I'm Omer Lahav.
 > ### Full-stack web developer at [Geektime](https://www.geektime.co.il/), geek and a bad bios writer.
-> #### [Portfolio](https://omerlahav.dev/) | [Twitter](https://twitter.com/OmerLahav) | [Linkedin](https://linkedin.com/in/OmerLahav) | [Dev.to](https://dev.to/omerlahav)
+**Socials:** [Portfolio](https://omerlahav.dev/) | [Twitter](https://twitter.com/OmerLahav) | [Linkedin](https://linkedin.com/in/OmerLahav) | [Dev.to](https://dev.to/omerlahav)
 
 <!--
 **OmerLahav/OmerLahav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
