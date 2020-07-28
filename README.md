@@ -1,5 +1,6 @@
 # Hi, I'm Omer Lahav.
 > ### Full-stack web developer at [Geektime](https://www.geektime.co.il/), geek and a bad bios writer.
+<a href="https://twitter.com/OmerLahav?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @OmerLahav</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 **Socials:** [Portfolio](https://omerlahav.dev/) | [Twitter](https://twitter.com/OmerLahav) | [Linkedin](https://linkedin.com/in/OmerLahav) | [Dev.to](https://dev.to/omerlahav)
 
 
